@@ -1,0 +1,16 @@
+.link {
+  color: white;
+}
+.link:hover {
+  cursor: pointer;
+  color: orange;
+}
+
+.link-container {
+  background-color: #1e6462;
+  color: white;
+}
+
+body {
+  background-color: rgb(236, 233, 233);
+}
